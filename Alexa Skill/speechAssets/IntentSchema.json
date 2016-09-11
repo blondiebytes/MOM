@@ -1,0 +1,45 @@
+{
+  "intents": [
+  {
+    "intent": "StartProjectIntent",
+    "slots": [
+    {
+      "name": "D",
+      "type": "LIST_OF_D"
+    }
+    ]
+    },
+      {
+    "intent": "TopicsIntent",
+    "slots": [
+    {
+      "name": "S",
+      "type": "LIST_OF_S"
+    }
+    ]
+    },
+    {
+      "intent": "MoreContentIntent",
+      "slots": [
+      {
+        "name": "T",
+        "type": "LIST_OF_T"
+      }
+      ]
+      },
+        {
+          "intent": "ReviewIntent"    
+          },
+          {
+            "intent": "AMAZON.HelpIntent"    
+            },
+            {
+              "intent": "AMAZON.StopIntent"
+              },
+              {
+                "intent": "AMAZON.CancelIntent"    
+              }
+              
+              ]
+
+            }

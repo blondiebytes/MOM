@@ -1,0 +1,13 @@
+.row1, .row2{
+}
+
+.dead{
+	display: inline-block;
+	width: 800px;
+}
+
+.inside{
+	display: inline-block;
+    text-align: center;
+    width: inherit;
+}
